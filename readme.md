@@ -60,6 +60,8 @@ Para instalar os node_modules execute:
 ### Pacotes Adicionais
 
 Alguns pacotes interessantes para auxiliar no desenvolvimento.
+
+* [React-Native-Paper](https://callstack.github.io/react-native-paper/getting-started.html)
 * [Lodash](https://lodash.com/docs/)
 * [axios](https://github.com/axios/axios)
 * [Genymotion](https://www.genymotion.com/download/)
